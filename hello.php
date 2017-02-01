@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello my fav color is blue";
+echo "Hello my fav color is red";
 
 ?>
